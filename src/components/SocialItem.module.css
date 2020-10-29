@@ -1,0 +1,8 @@
+.cor {
+  transition: color 225ms ease-in-out;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
