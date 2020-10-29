@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6a810924.chunk.css",
+    "main.js": "/portfolio/static/js/main.1db05c5a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1db05c5a.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
+    "static/css/2.0cec49e1.chunk.css": "/portfolio/static/css/2.0cec49e1.chunk.css",
+    "static/js/2.b1a5af8a.chunk.js": "/portfolio/static/js/2.b1a5af8a.chunk.js",
+    "static/js/2.b1a5af8a.chunk.js.map": "/portfolio/static/js/2.b1a5af8a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.8828ef1dd7c4fb62a8293c9c9e7b9e45.js": "/portfolio/precache-manifest.8828ef1dd7c4fb62a8293c9c9e7b9e45.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.0cec49e1.chunk.css.map": "/portfolio/static/css/2.0cec49e1.chunk.css.map",
+    "static/css/main.6a810924.chunk.css.map": "/portfolio/static/css/main.6a810924.chunk.css.map",
+    "static/js/2.b1a5af8a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b1a5af8a.chunk.js.LICENSE.txt",
+    "static/media/appo.png": "/portfolio/static/media/appo.ef2b3d27.png",
+    "static/media/bikeshop.jpg": "/portfolio/static/media/bikeshop.c533c003.jpg",
+    "static/media/boadaserra.png": "/portfolio/static/media/boadaserra.97596c75.png",
+    "static/media/semantic.min.css": "/portfolio/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/clemo.png": "/portfolio/static/media/clemo.bcf0a593.png",
+    "static/media/cuda.png": "/portfolio/static/media/cuda.c8daab63.png",
+    "static/media/fullscreen.png": "/portfolio/static/media/fullscreen.aeea0593.png",
+    "static/media/mint.jpg": "/portfolio/static/media/mint.cbf6aab9.jpg",
+    "static/media/pic3.jpg": "/portfolio/static/media/pic3.063c6d91.jpg",
+    "static/media/piroll.jpg": "/portfolio/static/media/piroll.29fa38c9.jpg",
+    "static/media/private-vacation.jpg": "/portfolio/static/media/private-vacation.f0ebd68a.jpg",
+    "static/media/reen.jpg": "/portfolio/static/media/reen.0cc63540.jpg",
+    "static/media/tork.jpg": "/portfolio/static/media/tork.45d020e8.jpg",
+    "static/media/travel.png": "/portfolio/static/media/travel.76c446b5.png",
+    "static/media/travelly.jpg": "/portfolio/static/media/travelly.602a2524.jpg",
+    "static/media/twobytes.png": "/portfolio/static/media/twobytes.a683328d.png",
+    "static/media/weather-app-landing-page.png": "/portfolio/static/media/weather-app-landing-page.41beb75d.png",
+    "static/media/z no link ss2.png": "/portfolio/static/media/z no link ss2.6442181b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075c0788.js",
+    "static/css/2.0cec49e1.chunk.css",
+    "static/js/2.b1a5af8a.chunk.js",
+    "static/css/main.6a810924.chunk.css",
+    "static/js/main.1db05c5a.chunk.js"
+  ]
+}
