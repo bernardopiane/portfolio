@@ -39,7 +39,7 @@ export default function Works() {
             }
 
             const url =
-              "https://bernardopiane.github.io/" + item.slice(24, -13);
+              "https://bernardopiane.github.io/" + item.slice(24,-13);
             return (
               <Grid.Column key={item} mobile={16} tablet={8} computer={4}>
                 <a href={url} target="_blank" rel="noopener noreferrer">
