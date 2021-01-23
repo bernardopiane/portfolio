@@ -37,6 +37,8 @@ export default function Works() {
                 </Grid.Column>
               );
             }
+            
+            console.log(item);
 
             const url =
               "https://bernardopiane.github.io/" + item.slice(34,-13);
